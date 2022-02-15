@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: #EDF1F5;
+}
+.from{
+    width: 350px;
+    height: 280px;
+    background-color: #fff;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    border-radius: 6%;
+    padding: 15px;
+    border: 2px solid transparent;
+    box-shadow: 1px 2px 4px 0;
+    margin-right: 50px;
+    margin-right: 200px;
+    
+}
+input{
+    padding: 7px;
+}
+::placeholder{
+    font-size: 14px;
+    color: #6C7A88;
+}
+    .masud{
+        width: 266px;
+        height: 40px;
+        margin: auto;
+        margin-bottom: 7px;
+        border: 1px solid #E0E2E4;
+        border-radius: 4px;
+    }
+    button{
+        background: #1E76ED;
+        width: 100%;
+        border-radius: 4%;
+        height: 40px;
+        border: none;
+        margin-bottom: 7px;
+
+    }
+    .login{
+        border: none;
+        font-size: 20px;
+        color: #fff;
+        background: #1E76ED;
+        font-weight: 600;
+        padding: 0px;
+    }
+    .masum{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .masum a{
+        text-decoration: none;
+        color: #1E76ED;
+    }
+    hr{
+        border: 1px solid #DFE1E5;
+        margin-bottom: 20px;
+    }
+    .masum2{
+      width: 200px;
+      height: 40px;
+      background-color: #22b740;
+      padding: 13px;
+      text-align: center;
+      margin: auto;
+      border-radius: 4%;
+    }
+    .masum2 a{
+        text-decoration: none;
+        color: #fff;
+        font-size: 18px;
+        font-weight: 600;
+    }
+   .santo{
+       margin-top: 250px;
+       margin-left: 200px;
+   }
+   .santo h1{
+       font-size: 70px;
+       font-weight: 700;
+       color: #1E76ED;
+   }
+   .santo h2{
+       font-weight: 100;
+   }
